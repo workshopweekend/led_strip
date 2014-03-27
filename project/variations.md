@@ -1,0 +1,2 @@
++ Hook up a potentiometer to your project and have the potentiometer control the number of lights lit on the strip.
++ Hook up a microphone to your project and have the pattern change with the ambient volume.
